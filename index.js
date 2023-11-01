@@ -17,32 +17,32 @@ const port = 8080;
 let posts = [
     {
         id:uuidv4(),
-        username :"laxman Deora",
-        content : "i love coding ninja",
+        username :"devanshiminda",
+        content : "happy-Go-Lucky",
 
     },
     {
         id:uuidv4(),
-        username :"Purvesh Deora",
-        content : "they always says to work hard",
+        username :"devjoshi28",
+        content : "I am an ecplore crew member , artist balveer ",
 
     },
     {
         id:uuidv4(),
-        username :"devanshi minda",
-        content : "she rejected me",
+        username :"laxmandeora0408",
+        content : "Ignore everything with a simle",
 
     },
     {
         id:uuidv4(),
         username :"khushi borana",
-        content : "she cheated me",
+        content : "duniya me kitna gum hai . mera gum inta kam he jb  uska gum dekha to mera gum bhul gya",
 
     },
     {
         id:uuidv4(),
         username :"kajal",
-        content : "she loves me",
+        content : "sabme kuch to kmi he kon he jisme kami nhi he aasman ke pass v jami nhi he",
 
     },
 ]
